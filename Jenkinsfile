@@ -3,7 +3,7 @@ pipeline
 	agent any
 	stages
 	{
-		Stage ('Git-Checkout')
+		stage ('Git-Checkout')
 		{
 			steps
 			{

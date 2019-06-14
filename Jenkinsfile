@@ -12,14 +12,6 @@ pipeline
 			}
 		
 		}
-		Stage ('Build')
-		{
-			steps
-			{
-				echo "Build starts"
 		
-			
-			}
-		}
 	}
 }
